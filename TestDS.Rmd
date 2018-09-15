@@ -1,0 +1,23 @@
+---
+title: "Data Science Profile"
+author: "Deepti Kunupudi"
+date: "9/14/2018"
+output: html_document
+keep_md: true
+---
+
+
+
+##### Rating 1-5 (1- least; 5-excellent)
+
+
+#
+#
+
+#####Computer programming 4 
+#####Math 3
+#####Statistics 2
+#####Machine learning 1
+#####Domain expertise (and give the domain(s)) 4
+#####Communication and presentation skills 4
+#####Data visualization 4
